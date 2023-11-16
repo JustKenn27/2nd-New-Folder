@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(222, 135, 197); 
+}
+
+i{ 
+    background-color: rgb(0, 229, 255);
+    border: 2px solid black;
+    text-align: center;
+    color: rgb(122, 17, 151);
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
